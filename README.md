@@ -11,4 +11,4 @@ The data should be in "a: 0.14 1.01 0.01 g: 0.02 1.03 1.00" this format. Any dat
 port will work
 
 #Image
-https://cloud.githubusercontent.com/assets/15575296/22130583/2c092732-ded7-11e6-824e-5218bef16903.JPG
+![ScreenShot](https://cloud.githubusercontent.com/assets/15575296/22130583/2c092732-ded7-11e6-824e-5218bef16903.JPG)
